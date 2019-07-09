@@ -152,17 +152,6 @@ button:focus { /* Убираем синюю обводку у кнопки */
     background-color: #f49a29;
 }
 
-.card-image__student {
-    padding-top: 40px;
-
-}
-
-.card-image {
-    display: inline-block;
-    vertical-align: top;
-    margin-left: 30px;
-}
-
 .intro span {
     font-weight:100
 }
